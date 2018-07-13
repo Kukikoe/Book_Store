@@ -14,6 +14,8 @@ import Layout from 'containers/layout'
 import Book from 'containers/book'
 import Books from 'containers/books'
 import Basket from 'containers/basket'
+import routes from 'routes/index'
+
 
 const store = createStore(reducers, composeWithDevTools(
     applyMiddleware(thunk)
@@ -23,10 +25,13 @@ const  history = syncHistoryWithStore(browserHistory, store)
 
 ReactDOM.render (
     <Provider store={store}>
-         <Router history={history}>
+         <Router history={history} >
+             {routes(store)}
+
             <Route component={Layout}>
-                <Route  path='/' component={Book}/>
+                <Route  path='/' component={Book} />
                 <Route path='categories/:id' component={Book} />
+
             </Route>
              <Route path='book/:id' component={Books} />
              <Route path='/basket' component={Basket} />
