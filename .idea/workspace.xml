@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2180e335-c01c-402c-b701-4bc19bd1b6e7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/Alquimista.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/Alquimista.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/Night.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/Night.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uploads/Night.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/code.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uploads/code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/gatsby.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uploads/gatsby.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/kammerater.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uploads/kammerater.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/war.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uploads/war.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/war_and_pleace.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/categories/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/categories/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/navbar/navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/constants/validateConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/constants/validateConstants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/Night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/api/mockBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/api/mockBook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/book/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/book/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/books/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/books/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/signUp/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/signUp/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/bookPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/reducers/bookPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/selectors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/userSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/userSelector.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,13 +30,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+            <state relative-caret-position="1095">
+              <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authenticate.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__test__/actions/authenticate.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,12 +57,21 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/node_modules/containers/signUp/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-690">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="-178">
+              <caret line="123" column="114" lean-forward="true" selection-start-line="123" selection-start-column="114" selection-end-line="123" selection-end-column="114" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="e#107#183#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/node_modules/components/sidebar/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -105,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/node_modules/containers/layout/layout.css" />
         <option value="$PROJECT_DIR$/src/node_modules/containers/main.css" />
         <option value="$PROJECT_DIR$/src/node_modules/reducers/index.js" />
@@ -156,6 +152,8 @@
         <option value="$PROJECT_DIR$/src/node_modules/constants/validateConstants.js" />
         <option value="$PROJECT_DIR$/src/node_modules/containers/signUp/index.js" />
         <option value="$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/api/mockBook.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" />
       </list>
     </option>
   </component>
@@ -194,6 +192,17 @@
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="__test__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="__test__" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,7 +230,15 @@
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="sidebar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
@@ -358,7 +375,7 @@
       <workItem from="1531496461406" duration="36957000" />
       <workItem from="1531642815149" duration="16163000" />
       <workItem from="1531687417878" duration="2433000" />
-      <workItem from="1531721067674" duration="8595000" />
+      <workItem from="1531721067674" duration="9831000" />
     </task>
     <servers />
   </component>
@@ -371,7 +388,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199870000" />
+    <option name="totallyTimeSpent" value="201106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="25" width="1539" height="875" extended-state="6" />
@@ -412,21 +429,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/sidebar/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/node_modules/containers/logIn/signUpSuccess.js" />
-    <entry file="file://$PROJECT_DIR$/src/node_modules/api/mockBook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/node_modules/containers/layout/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -511,13 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/actions/authenticate.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -767,10 +763,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/__test__/actions/authenticate.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/api/mockBook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/node_modules/containers/signUp/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="-178">
+          <caret line="123" column="114" lean-forward="true" selection-start-line="123" selection-start-column="114" selection-end-line="123" selection-end-column="114" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <element signature="e#107#183#0" expanded="true" />
@@ -778,13 +801,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js">
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/sidebar/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
