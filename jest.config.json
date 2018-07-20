@@ -1,0 +1,15 @@
+{
+  "collectCoverage": true,
+  "globals": { "widow": true },
+  "moduleDirectories": ["node_modules", "src", "src/node_modules",  "__mocks__"],
+  "moduleNameMapper": { "^.+\\.(css|scss)$": "identity-obj-proxy" },
+  "setupFiles": ["raf/polyfill"],
+  "setupTestFrameworkScriptFile": "<rootDir>/__tests__/setup.js",
+  "testRegex": "/__tests__/.*.test.js$",
+  "testPathIgnorePatterns": ["<rootDir>/__tests__/coverage"],
+  "coveragePathIgnorePatterns": ["<rootDir>/__tests__", "<rootDir>/__mocks__",
+    "<rootDir>/src/default", "<rootDir>/src/node_modules/constants", "<rootDir>/src/node_modules/api"]
+}
+
+
+

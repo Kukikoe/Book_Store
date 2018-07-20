@@ -3,17 +3,57 @@
   <component name="ChangeListManager">
     <list default="true" id="2180e335-c01c-402c-b701-4bc19bd1b6e7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__test__/reducers/user.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/__test__/reducers/user.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/basket.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/basketCart/basket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/basket.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/navbar/img/basket.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/basket.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/basket/basket.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/userInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/basket/userInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/layout/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/actions/authenticate.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/components/SignInPopup/logIn.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/components/testHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/reducers/user.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/authenticate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/registration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/api/mockBook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/api/mockCategories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/api/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/basketCart/basket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/basketCart/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/categories/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/img/basket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/search/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/constants/validateConstants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/addBooks/add-book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/basket.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/userInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/book/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/books/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/layout/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/layout/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/logIn/logIn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/policy/policy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/policy/policy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/signUp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/signUp/signUp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/basket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/book.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/bookPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/booksPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/categories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/userSelector.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,65 +78,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="authenticate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/actions/authenticate.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/containers/addBooks/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="60">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectors.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/selectors.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actionTypes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/actionTypes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/components/navbar/index.js">
+        <entry file="file://$PROJECT_DIR$/src/app/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="45" column="88" lean-forward="true" selection-start-line="45" selection-start-column="88" selection-end-line="45" selection-end-column="88" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="364">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/actions/index.js">
+        <entry file="file://$PROJECT_DIR$/src/app/api/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/containers/logIn/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/containers/layout/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basket.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/components/basketCart/basket.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="1005">
+              <caret line="76" column="2" lean-forward="true" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="2" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -104,25 +126,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/api/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/components/sidebar/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -160,50 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/node_modules/containers/addBooks/add-book.css" />
-        <option value="$PROJECT_DIR$/src/node_modules/api/users.json" />
-        <option value="$PROJECT_DIR$/src/node_modules/components/navbar/addBookButton.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/api/users.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/signUp/signUp.css" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/logIn/logIn.css" />
-        <option value="$PROJECT_DIR$/src/node_modules/actions/registration.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/policy/policy.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/actions/authenticate.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/routes/index.js" />
-        <option value="$PROJECT_DIR$/__text__/actions/authenticate.test.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/__mocks__/data/userDate.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/userSelector.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/components/navbar/basket.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/components/basketCart/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/components/categories/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/components/search/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/components/navbar/navbar.css" />
-        <option value="$PROJECT_DIR$/src/node_modules/selectors.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/book/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/books/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/reducers/basket.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/reducers/book.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/reducers/bookPage.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/reducers/booksPage.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/reducers/categories.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/api/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/reducers/user.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/actionTypes.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/constants/validateConstants.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/signUp/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/api/mockBook.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/fortest/sum.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/fortest/sum.test.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/basket/basket.css" />
-        <option value="$PROJECT_DIR$/src/node_modules/containers/basket/userInfo.js" />
-        <option value="$PROJECT_DIR$/__test__/components/logIn.test.js" />
-        <option value="$PROJECT_DIR$/__test__/components/testHelper.js" />
-        <option value="$PROJECT_DIR$/__test__/actions/authenticate.test.js" />
-        <option value="$PROJECT_DIR$/__test__/components/SignInPopup/logIn.test.js" />
         <option value="$PROJECT_DIR$/__test__/reducers/user.test.js" />
         <option value="$PROJECT_DIR$/src/node_modules/actions/index.js" />
         <option value="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" />
@@ -211,6 +178,50 @@
         <option value="$PROJECT_DIR$/src/node_modules/containers/layout/index.js" />
         <option value="$PROJECT_DIR$/src/node_modules/components/basketCart/basket.js" />
         <option value="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" />
+        <option value="$PROJECT_DIR$/__test__/setup.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/__tests__/components/testHelper.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/__snapshots__/Navbar.react-test.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/jest.config.json" />
+        <option value="$PROJECT_DIR$/src/node_modules/actions/authenticate.js" />
+        <option value="$PROJECT_DIR$/src/app/components/navbar/index.js" />
+        <option value="$PROJECT_DIR$/src/app/actions/authenticate.js" />
+        <option value="$PROJECT_DIR$/src/app/containers/layout/index.js" />
+        <option value="$PROJECT_DIR$/src/app/actions/registration.js" />
+        <option value="$PROJECT_DIR$/src/app/components/sidebar/index.js" />
+        <option value="$PROJECT_DIR$/src/app/components/categories/index.js" />
+        <option value="$PROJECT_DIR$/src/app/routes/index.js" />
+        <option value="$PROJECT_DIR$/src/app/containers/basket/index.js" />
+        <option value="$PROJECT_DIR$/src/app/components/basketCart/basket.js" />
+        <option value="$PROJECT_DIR$/src/app/components/basketCart/index.js" />
+        <option value="$PROJECT_DIR$/src/app/components/search/index.js" />
+        <option value="$PROJECT_DIR$/src/app/containers/basket/userInfo.js" />
+        <option value="$PROJECT_DIR$/src/app/containers/book/index.js" />
+        <option value="$PROJECT_DIR$/src/app/containers/books/index.js" />
+        <option value="$PROJECT_DIR$/src/app/reducers/basket.js" />
+        <option value="$PROJECT_DIR$/src/app/reducers/book.js" />
+        <option value="$PROJECT_DIR$/src/app/reducers/bookPage.js" />
+        <option value="$PROJECT_DIR$/src/app/reducers/booksPage.js" />
+        <option value="$PROJECT_DIR$/src/app/reducers/categories.js" />
+        <option value="$PROJECT_DIR$/src/app/reducers/user.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/__snapshots__/basketCart.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/__snapshots__/Navbar.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/actions/authenticate.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/actions/registration.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/reducers/user.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/__snapshots__/search.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/__snapshots__/sidebar.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/Navbar/navbar.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/Search/search.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/components/BasketCart/basketCart.test.js" />
+        <option value="$PROJECT_DIR$/src/app/selectors.js" />
+        <option value="$PROJECT_DIR$/src/app/actionTypes.js" />
+        <option value="$PROJECT_DIR$/src/app/containers/addBooks/index.js" />
+        <option value="$PROJECT_DIR$/src/app/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/app/api/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -249,74 +260,46 @@
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="basketCart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="sidebar" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="containers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="logIn" type="462c0819:PsiDirectoryNode" />
+              <item name="addBooks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,7 +310,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sokol_vitali95-online_store-1c4f89dbe23a" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
   </component>
   <component name="RecentsManager">
@@ -351,8 +334,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.object assignment">
+  <component name="RunManager" selected="Jest.renders correctly (1)">
     <configuration name="SignPageContainer" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/jest.config.json" />
       <node-interpreter value="project" />
       <node-options value="" />
       <working-dir value="$PROJECT_DIR$" />
@@ -363,30 +347,20 @@
         <test-name value="SignPageContainer" />
       </test-names>
     </configuration>
-    <configuration name="authenticateActions" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/__test__/actions/authenticate.test.js" />
-      <test-names>
-        <test-name value="authenticateActions" />
-      </test-names>
-    </configuration>
-    <configuration name="authenticateActions.+++ actionCreator addInputs" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+    <configuration name="adds 1 + 2 to equal 3" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/jest.config.json" />
       <node-interpreter value="project" />
       <node-options value="" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/__test__/actions/authenticate.test.js" />
+      <test-file value="$PROJECT_DIR$/__tests__/actions/authenticate.test.js" />
       <test-names>
-        <test-name value="authenticateActions" />
-        <test-name value="+++ actionCreator addInputs" />
+        <test-name value="adds 1 + 2 to equal 3" />
       </test-names>
     </configuration>
     <configuration name="object assignment" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/jest.config.json" />
       <node-interpreter value="project" />
       <node-options value="" />
       <working-dir value="$PROJECT_DIR$" />
@@ -397,18 +371,42 @@
         <test-name value="object assignment" />
       </test-names>
     </configuration>
+    <configuration name="renders correctly (1)" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/components/__snapshots__/Navbar.test.js" />
+      <test-names>
+        <test-name value="renders correctly" />
+      </test-names>
+    </configuration>
+    <configuration name="renders correctly" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/components/__snapshots__/Navbar.react-test.js" />
+      <test-names>
+        <test-name value="renders correctly" />
+      </test-names>
+    </configuration>
     <list>
-      <item itemvalue="Jest.authenticateActions" />
-      <item itemvalue="Jest.authenticateActions.+++ actionCreator addInputs" />
       <item itemvalue="Jest.SignPageContainer" />
       <item itemvalue="Jest.object assignment" />
+      <item itemvalue="Jest.adds 1 + 2 to equal 3" />
+      <item itemvalue="Jest.renders correctly" />
+      <item itemvalue="Jest.renders correctly (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.renders correctly (1)" />
+        <item itemvalue="Jest.renders correctly" />
+        <item itemvalue="Jest.adds 1 + 2 to equal 3" />
         <item itemvalue="Jest.object assignment" />
         <item itemvalue="Jest.SignPageContainer" />
-        <item itemvalue="Jest.authenticateActions.+++ actionCreator addInputs" />
-        <item itemvalue="Jest.authenticateActions" />
       </list>
     </recent_temporary>
   </component>
@@ -461,46 +459,64 @@
       <workItem from="1531642815149" duration="16163000" />
       <workItem from="1531687417878" duration="2433000" />
       <workItem from="1531721067674" duration="13313000" />
-      <workItem from="1531754883829" duration="3626000" />
+      <workItem from="1531754883829" duration="4022000" />
+      <workItem from="1531908101206" duration="1347000" />
+      <workItem from="1532001074372" duration="10815000" />
+      <workItem from="1532067366673" duration="3151000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="authenticateActions - 2018.07.15 at 14h 56m 27s.xml">
-      <configuration name="authenticateActions" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="authenticateActions - 2018.07.15 at 15h 02m 20s.xml">
-      <configuration name="authenticateActions" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="authenticateActions_+++_actionCreator_addInputs - 2018.07.16 at 12h 23m 02s.xml">
-      <configuration name="authenticateActions.+++ actionCreator addInputs" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
-    <history-entry file="SignPageContainer - 2018.07.16 at 19h 00m 50s.xml">
-      <configuration name="SignPageContainer" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
     <history-entry file="object_assignment - 2018.07.16 at 19h 14m 20s.xml">
       <configuration name="object assignment" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="object_assignment - 2018.07.18 at 13h 10m 54s.xml">
+      <configuration name="object assignment" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="object_assignment - 2018.07.18 at 13h 12m 05s.xml">
+      <configuration name="object assignment" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="object_assignment - 2018.07.18 at 13h 15m 36s.xml">
+      <configuration name="object assignment" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3 - 2018.07.19 at 15h 25m 18s.xml">
+      <configuration name="adds 1 + 2 to equal 3" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="adds_1_+_2_to_equal_3 - 2018.07.19 at 15h 26m 47s.xml">
+      <configuration name="adds 1 + 2 to equal 3" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="renders_correctly - 2018.07.19 at 18h 38m 31s.xml">
+      <configuration name="renders correctly" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="renders_correctly_(1) - 2018.07.19 at 18h 39m 58s.xml">
+      <configuration name="renders correctly (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="renders_correctly_(1) - 2018.07.19 at 18h 56m 53s.xml">
+      <configuration name="renders correctly (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="renders_correctly_(1) - 2018.07.19 at 18h 57m 55s.xml">
+      <configuration name="renders correctly (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208214000" />
+    <option name="totallyTimeSpent" value="223923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="25" width="1539" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16374269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16374269" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50097466" side_tool="true" weight="0.27567568" />
       <window_info anchor="right" id="Database" order="3" weight="0.0" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49707603" weight="0.27567568" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49837556" visible="true" weight="0.27567568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.5016244" side_tool="true" visible="true" weight="0.27567568" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.50292397" side_tool="true" visible="true" weight="0.27567568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32867134" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" weight="0.3298969" />
@@ -520,68 +536,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/navbar/addBookButton.js" />
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="267" column="4" selection-start-line="267" selection-start-column="4" selection-end-line="267" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/signUp/signUp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/policy/policy.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/policy/policy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/actions/registration.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15912" column="17" selection-start-line="15912" selection-start-column="17" selection-end-line="15912" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__text__/actions/authenticate.test.js" />
     <entry file="file://$PROJECT_DIR$/__mocks__/data/userDate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -589,150 +547,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/categories/index.js">
+    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/book.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/basket.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/actions/registration.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/actions/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/actions/authenticate.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/actions/authenticate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="63" column="61" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/search/index.js">
+    <entry file="file://$PROJECT_DIR$/src/app/actions/registration.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/categories.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/booksPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/bookPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/book.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/basketCart/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/book/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1005">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/api/users.js">
+    <entry file="file://$PROJECT_DIR$/src/app/components/basketCart/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="2" selection-start-column="8" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/selectors.js">
+    <entry file="file://$PROJECT_DIR$/src/app/components/categories/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="135">
+          <caret line="9" column="56" lean-forward="true" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/basket.js">
+    <entry file="file://$PROJECT_DIR$/src/app/components/navbar/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/books/index.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/basket/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="117" column="66" selection-start-line="117" selection-start-column="66" selection-end-line="117" selection-end-column="66" />
+        <state relative-caret-position="210">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/actionTypes.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/basket/userInfo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        <state relative-caret-position="120">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/userSelector.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/book/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/constants/validateConstants.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/books/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/layout/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/api/mockBook.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/logIn/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/fortest/sum.js">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/policy/policy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/app/containers/signUp/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/signUp/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="43" />
+        <state>
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <element signature="e#107#183#0" expanded="true" />
@@ -740,157 +664,249 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/api/index.js">
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/basket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/bookPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/categories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/booksPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/userSelector.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/basketCart/basket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/logIn/logIn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="48" selection-start-line="48" selection-end-line="56" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/basket/basket.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/basket/userInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/basket/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="96" column="57" selection-start-line="96" selection-start-column="53" selection-end-line="96" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/sum.test.js">
+    <entry file="file://$PROJECT_DIR$/__tests__/actions/authenticate.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-end-line="2" selection-end-column="4" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/components/testHelper.js">
+    <entry file="file://$PROJECT_DIR$/__tests__/actions/registration.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/reducers/user.test.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/actions/authenticate.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/components/SignInPopup/logIn.test.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/user.js">
+    <entry file="file://$PROJECT_DIR$/__tests__/components/__snapshots__/basketCart.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/actions/authenticate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/navbar/navbar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/navbar/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="45" column="88" lean-forward="true" selection-start-line="45" selection-start-column="88" selection-end-line="45" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/sidebar/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/layout/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state>
+          <caret selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/components/basketCart/basket.js">
+    <entry file="file://$PROJECT_DIR$/src/app/components/search/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="14" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/containers/logIn/index.js">
+    <entry file="file://$PROJECT_DIR$/__tests__/components/__snapshots__/sidebar.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/__snapshots__/search.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/__snapshots__/Navbar.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/Navbar/navbar.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/Search/search.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/SignInPopup/logIn.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/BasketCart/basketCart.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/reducers/user.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#1#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/selectors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/containers/addBooks/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="76" column="2" lean-forward="true" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
