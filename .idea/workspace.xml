@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2180e335-c01c-402c-b701-4bc19bd1b6e7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__test__/actions/authenticate.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__test__/components/SignInPopup/logIn.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__test__/components/testHelper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__test__/reducers/user.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/actionTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/authenticate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/actions/registration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/api/mockBook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/api/mockCategories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/api/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/basketCart/basket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/basketCart/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/categories/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/img/basket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/navbar/navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/search/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/constants/validateConstants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/addBooks/add-book.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/addBooks/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/basket.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/basket/userInfo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/book/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/books/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/layout/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/layout/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/logIn/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/logIn/logIn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/policy/policy.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/policy/policy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/signUp/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/containers/signUp/signUp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/basket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/book.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/bookPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/booksPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/categories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/reducers/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/userSelector.js" beforeDir="false" />
-    </list>
+    <list default="true" id="2180e335-c01c-402c-b701-4bc19bd1b6e7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,29 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/containers/addBooks/index.js">
+      <file leaf-file-name="book.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__tests__/actions/book.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selectors.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/selectors.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actionTypes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/actionTypes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+            <state relative-caret-position="135">
+              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,32 +40,11 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/api/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="76" column="2" lean-forward="true" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="2" />
+            <state relative-caret-position="825">
+              <caret line="73" column="25" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="25" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#517#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -171,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/__test__/reducers/user.test.js" />
         <option value="$PROJECT_DIR$/src/node_modules/actions/index.js" />
         <option value="$PROJECT_DIR$/src/node_modules/components/navbar/index.js" />
         <option value="$PROJECT_DIR$/src/node_modules/components/sidebar/index.js" />
@@ -222,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/app/actions/index.js" />
         <option value="$PROJECT_DIR$/src/app/api/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/__tests__/actions/book.test.js" />
       </list>
     </option>
   </component>
@@ -260,13 +171,36 @@
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="__mocks__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="__mocks__" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="__tests__" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
@@ -278,6 +212,13 @@
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Online_Store" type="b2602c69:ProjectViewProjectNode" />
@@ -298,8 +239,7 @@
               <item name="Online_Store" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-              <item name="addBooks" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -462,7 +402,7 @@
       <workItem from="1531754883829" duration="4022000" />
       <workItem from="1531908101206" duration="1347000" />
       <workItem from="1532001074372" duration="10815000" />
-      <workItem from="1532067366673" duration="3151000" />
+      <workItem from="1532067366673" duration="6222000" />
     </task>
     <servers />
   </component>
@@ -499,7 +439,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223923000" />
+    <option name="totallyTimeSpent" value="226994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="25" width="1539" height="875" extended-state="6" />
@@ -540,14 +480,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/__mocks__/data/userDate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/index.js" />
     <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/book.js" />
     <entry file="file://$PROJECT_DIR$/src/node_modules/reducers/basket.js" />
     <entry file="file://$PROJECT_DIR$/src/node_modules/actions/registration.js" />
@@ -671,27 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/reducers/book.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/reducers/bookPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/reducers/categories.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/reducers/user.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -699,24 +610,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/reducers/booksPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/userSelector.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -745,13 +640,6 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/actions/authenticate.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -819,16 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/components/Navbar/navbar.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__tests__/components/Search/search.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -848,16 +726,6 @@
           <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__tests__/reducers/user.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#1#195#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
@@ -904,9 +765,105 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+            <caret line="2" column="56" lean-forward="true" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/categories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/booksPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/reducers/user.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="e#1#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__mocks__/data/userDate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/actions/authenticate.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/reducers/bookPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/components/Navbar/navbar.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/actions/book.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
