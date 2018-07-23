@@ -95,6 +95,7 @@ export const addBook = async (name, author, pages, description, price, image) =>
     })
 };
 
+<<<<<<< HEAD
 export const deleteBook = async (id) => {
     return new Promise((resolve) => {
         const books = JSON.parse(localStorage.getItem('books'));
@@ -103,6 +104,8 @@ export const deleteBook = async (id) => {
         resolve(books);
     });
 };
+=======
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30
 
 export const fetchBook = async () => {
     return new Promise((resolve) => {
@@ -130,4 +133,8 @@ export const fetchCategories = async () => {
     return new Promise(resolve => {
         resolve(categories)
     })
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30

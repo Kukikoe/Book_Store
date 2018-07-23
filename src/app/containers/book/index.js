@@ -7,11 +7,17 @@ import {
     fetchBook,
     loadMoreBook,
     addBooksToBasket,
+<<<<<<< HEAD:src/app/containers/book/index.js
     fetchCategories,
     removeBookIfAdmin
 } from '../../actions'
 import  {getBook} from '../../selectors'
 import {getUserIsAdmin} from '../../userSelector';
+=======
+    fetchCategories
+} from '../../actions'
+import  {getBook} from '../../selectors'
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/containers/book/index.js
 
 
 class Book extends Component {

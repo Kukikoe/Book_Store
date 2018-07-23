@@ -39,4 +39,8 @@ export const LOG_IN_ADMIN = 'LOG_IN_ADMIN';
 
 export const ADD_BOOK_START = 'ADD_BOOK_START';
 export const ADD_BOOK_SUCCESS = 'ADD_BOOK_SUCCESS';
+<<<<<<< HEAD:src/app/actionTypes.js
 export const ADD_BOOK_FAILURE = 'ADD_BOOK_FAILURE';
+=======
+export const ADD_BOOK_FAILURE = 'ADD_BOOK_FAILURE';
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/actionTypes.js

@@ -1,6 +1,7 @@
 {
   "collectCoverage": true,
   "globals": { "widow": true },
+<<<<<<< HEAD
   "transform": {
     "^.+\\.js$": "babel-jest"
   },
@@ -18,6 +19,16 @@
   "testPathIgnorePatterns": ["<rootDir>/src/__tests__/coverage"],
   "coveragePathIgnorePatterns": ["<rootDir>/src/__tests__", "<rootDir>/src/__mocks__",
     "<rootDir>/src/default", "<rootDir>/src/app/constants", "<rootDir>/src/app/api"]
+=======
+  "moduleDirectories": ["node_modules", "src", "src/node_modules",  "__mocks__"],
+  "moduleNameMapper": { "^.+\\.(css|scss)$": "identity-obj-proxy" },
+  "setupFiles": ["raf/polyfill"],
+  "setupTestFrameworkScriptFile": "<rootDir>/__tests__/setup.js",
+  "testRegex": "/__tests__/.*.test.js$",
+  "testPathIgnorePatterns": ["<rootDir>/__tests__/coverage"],
+  "coveragePathIgnorePatterns": ["<rootDir>/__tests__", "<rootDir>/__mocks__",
+    "<rootDir>/src/default", "<rootDir>/src/node_modules/constants", "<rootDir>/src/node_modules/api"]
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30
 }
 
 

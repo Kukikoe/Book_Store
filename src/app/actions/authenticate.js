@@ -8,7 +8,7 @@ import { LOG_IN_REQUEST,
 import { fetchUser, fetchAdmin} from '../api/index'
 
 export const logInRequest = (email, password) => async dispatch => {
-    dispatch({type: LOG_IN_REQUEST});
+    dispatch({type: LOG_IN_REQUEST, payload: email, password});
     try {
         const admin = await fetchAdmin(email, password);
         if (admin !== undefined) {

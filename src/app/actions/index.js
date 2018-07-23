@@ -17,8 +17,12 @@ import {
     CLEAN_BASKET,
     ADD_BOOK_START,
     ADD_BOOK_SUCCESS,
+<<<<<<< HEAD:src/app/actions/index.js
     ADD_BOOK_FAILURE,
     REMOVE_BOOK
+=======
+    ADD_BOOK_FAILURE
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/actions/index.js
 } from '../actionTypes'
 
 import {
@@ -29,8 +33,12 @@ import {
     loadMoreBook as loadMoreBookApi,
     fetchBooksById as fetchBooksByIdApi,
     fetchCategories as fetchCategoriesApi,
+<<<<<<< HEAD:src/app/actions/index.js
     addBook as addBookApi,
     deleteBook
+=======
+    addBook as addBookApi
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/actions/index.js
 } from '../api'
 
 
@@ -155,10 +163,16 @@ export const fetchCategories = () => async dispatch => {
     }
 };
 
+<<<<<<< HEAD:src/app/actions/index.js
 export const removeBookIfAdmin = id => async dispatch => {
     await deleteBook(id);
     dispatch({
         type: REMOVE_BOOK,
+=======
+export const removeBooksFromBasket = id => dispatch => {
+    dispatch({
+        type: REMOVE_BOOKS_FROM_BASKET,
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/actions/index.js
         payload: id
     })
 };
@@ -189,5 +203,9 @@ export const basketUserInfoChekout = (name, email, phone) => {
 };
 
 export const basketChekout = book => {
+<<<<<<< HEAD:src/app/actions/index.js
+=======
+
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/actions/index.js
     alert(JSON.stringify(book));
 };

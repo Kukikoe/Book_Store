@@ -33,6 +33,7 @@ class AddBooks extends Component {
         const name = event.target.name;
         const value = event.target.value;
         this.setState({[name]: value});
+<<<<<<< HEAD:src/app/containers/addBooks/index.js
     };
 
     handleImage = () => {
@@ -44,10 +45,27 @@ class AddBooks extends Component {
             this.imageEncoded = event.target.result;
         });
         reader.readAsDataURL(file)
+=======
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/containers/addBooks/index.js
     };
 
+    handleImage = () => {
+        const [file] = this.fileInput.current.files;
+        const reader = new FileReader();
+
+
+        reader.addEventListener('load', (event) => {
+            this.imageEncoded = event.target.result;
+        })
+        reader.readAsDataURL(file)
+    }
+
     validateField = (fieldName, value) => {
+<<<<<<< HEAD:src/app/containers/addBooks/index.js
         let nameValid = this.state.nameValid;
+=======
+        let nameValid = this.state.nameleValid;
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/containers/addBooks/index.js
         let authorValid = this.state.authorValid;
         let pagesValid = this.state.pagesValid;
         let descriptionValid = this.state.descriptionValid;
@@ -134,4 +152,8 @@ const mapDispatchToProps = {
     addBook
 };
 
+<<<<<<< HEAD:src/app/containers/addBooks/index.js
 export default connect(null, mapDispatchToProps)(AddBooks);
+=======
+export default connect(null, mapDispatchToProps)(AddBooks);
+>>>>>>> 9ead229bc2b5c0c4dfc1bcba32ce21deb6cd6f30:src/app/containers/addBooks/index.js
