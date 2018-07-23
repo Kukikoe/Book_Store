@@ -9,19 +9,19 @@ import {syncHistoryWithStore} from 'react-router-redux'
 import {Router, Route, browserHistory} from 'react-router'
 import {Provider} from 'react-redux'
 
-import reducers from 'reducers'
-import Layout from 'containers/layout'
-import Book from 'containers/book'
-import Books from 'containers/books'
-import Basket from 'containers/basket'
-import Routes from 'routes/index'
+import reducers from './app/reducers'
+import Layout from './app/containers/layout'
+import Book from './app/containers/book'
+import Books from './app/containers/books'
+import Basket from './app/containers/basket'
+import Routes from './app/routes/index'
 
 
 const store = createStore(reducers, composeWithDevTools(
     applyMiddleware(thunk)
 ));
 
-const  history = syncHistoryWithStore(browserHistory, store)
+const  history = syncHistoryWithStore(browserHistory, store);
 
 ReactDOM.render (
     <Provider store={store}>
